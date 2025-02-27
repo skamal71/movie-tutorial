@@ -7,3 +7,5 @@ export const useMovieContext = () => useContext(MovieContext)
 export const MovieProvider = () => {}
 
 // added this to test
+
+// new test
